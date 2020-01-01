@@ -12493,11 +12493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "C:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\API\\API.csproj",
+      "projectPath": "C:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\API\\API.csproj",
       "packagesPath": "C:\\Users\\yurap\\.nuget\\packages\\",
-      "outputPath": "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\API\\obj\\",
+      "outputPath": "C:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12516,8 +12516,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Application\\Application.csproj"
+            "C:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "C:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Application\\Application.csproj"
             }
           }
         }

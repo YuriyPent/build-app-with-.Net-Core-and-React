@@ -4104,8 +4104,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }

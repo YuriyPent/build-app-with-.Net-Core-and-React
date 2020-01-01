@@ -4100,11 +4100,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Application\\Application.csproj",
+      "projectPath": "C:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\yurap\\.nuget\\packages\\",
-      "outputPath": "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Application\\obj\\",
+      "outputPath": "C:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4123,8 +4123,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Domain\\Domain.csproj"
             },
             "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Persistence\\Persistence.csproj": {
               "projectPath": "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Persistence\\Persistence.csproj"
