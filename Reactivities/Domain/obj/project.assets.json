@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\study\\C#\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\study\\C#\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\Domain.csproj",
+      "projectPath": "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\yurap\\.nuget\\packages\\",
-      "outputPath": "C:\\study\\C#\\Complete guide to building an app with .Net Core and React\\Reactivities\\Domain\\obj\\",
+      "outputPath": "c:\\study\\C#\\dotNet_Core_and_React\\build-app-with-.Net-Core-and-React\\Reactivities\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
