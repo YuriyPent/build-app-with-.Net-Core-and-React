@@ -31,3 +31,4 @@
 * `dotnet ef migrations add InitialCreate -p Persistence/ -s API/` - migration
 * `dotnet watch run`
 * Run command `SqlLite open database` open reactivities.db
+* `dotnet ef migrations add SeedValues -p Persistence/ -s API/`
