@@ -28,3 +28,4 @@
 * `code .` - run vscode
 * `doskey /history > C:\Users\user\Desktop\commands.txt`
 * `dotnet run -p API/` - run app
+* `dotnet ef migrations add InitialCreate -p Persistence/ -s API/` - migration
