@@ -54,3 +54,7 @@ run app
 create-react-app
 ### `cd client-app/`
 ### `npm start`
+instal axios
+### `npm install axios`
+install semantic ui
+### `npm install semantic-ui-react`
